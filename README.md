@@ -18,7 +18,7 @@ Example file input: NumberDecomp.py < file_name.txt
 
 ![](DecompTest.png)
 
-### Example of runnin the code with file input:
+### Example of running the program with file input:
 
 ![](DecompFileTest.png)
 
