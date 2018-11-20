@@ -13,3 +13,5 @@ This program also allows for a text file input by using " > "
 Example file input: NumberDecomp.py > file_name.txt
 
 # Here are some screenshots of the running code!
+
+![](DecompTest.png)
