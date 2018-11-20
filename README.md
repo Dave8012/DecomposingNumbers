@@ -24,5 +24,5 @@ Example file input: NumberDecomp.py < file_name.txt
 
 # Output of the program
 
-The output of each decompositon includes the number value, exponent value, time for calculation, and the decompositon. 
-If a number cannot be decomposed, it will display 'No Decompositon'
+The output of each decompositon includes the number value, exponent value, time for calculation, and the decompositon.  
+If a number cannot be decomposed, it will display 'No Decompositon'.
