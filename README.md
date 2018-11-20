@@ -8,10 +8,16 @@ Example inputs:
 500 3 (This will find the shortest list of cube roots that add to 500)  
 500 4 (This will find the shortest list of fourth roots that add to 500)  
 
-This program also allows for a text file input by using " > "
+This program also allows for a text file input by using <
 
-Example file input: NumberDecomp.py > file_name.txt
+Example file input: NumberDecomp.py < file_name.txt
 
 # Here are some screenshots of the running code!
 
+Example of running the program with user input:
+
 ![](DecompTest.png)
+
+Example of runnin the code with file input:
+
+![](DecompFileTest.png)
